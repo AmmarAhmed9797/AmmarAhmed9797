@@ -71,11 +71,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmmarAhmed9797&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarAhmed9797&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmmarAhmed9797&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarAhmed9797&layout=compact&theme=tokyonight&langs_count=6" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmmarAhmed9797&theme=tokyonight" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmmarAhmed9797&theme=tokyonight&no-frame=true&row=1&column=6" width="96%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmmarAhmed9797&theme=tokyo-night&hide_border=true" width="96%" />
 </p>
 
 ---
